@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/root/cpp/test_creator'
+let g:netrw_dirhist_2='/root/Datatom/DTL/trunk/src/common/dtl/net/bsontest'
+let g:netrw_dirhist_3='/root/Datatom/DTL/trunk/src/common/ado'
